@@ -18,7 +18,7 @@ Diğer Telegram attack araçlarından farkı da budur. Herhangi bir listeye gere
 
 
 ## TeleBruter'i İndirin:
-### for Ubuntu & Debian:
+### Ubuntu & Debian:
 
 `sudo apt update`
 
@@ -33,7 +33,7 @@ Diğer Telegram attack araçlarından farkı da budur. Herhangi bir listeye gere
 
 
 
-### for Windows:
+### Windows:
 
 * [Python 3 edin](https://www.python.org/)
 
