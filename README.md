@@ -49,4 +49,27 @@ Program eğitim amaçlıdır. Tüm sorumluluk yalnızca kullanıcıya aittir.
 ### Bana Ulaşın:
 Programdaki hataları, tespit ettiğiniz bugları veya isteklerinizi bildirmek için bana ulaşın: pashasectr@gmail.com
 
-### Copyright (c) 2024
+## Copyright (c) 2024
+# Telif Hakkı Bildirimi
+
+Tüm hakları saklıdır. Bu proje (burada "TeleBruter" olarak anılacaktır), aşağıdaki lisans koşulları altında sunulmaktadır.
+
+### Kullanım Hakkı
+
+Yazılımın tüm kullanım hakkı sahibi PashaSec'dir. Yazılımın izinsiz kopyalanması, dağıtılması veya değiştirilmesi yasaktır.
+
+### Lisans
+
+Bu Yazılım MIT lisansı altında lisanslanmıştır. Aşağıdaki koşullara tabidir:
+
+Yazılımın bir kopyasını edinen herkese, bu yazılımı kullanma, değiştirme, birleştirme izni verilir. 
+
+YAZILIM "TİCARET İÇİN UYGUNLUK, BELİRLİ BİR AMACA UYGUNLUK VE İHLAL OLMAMASI DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE" HİÇBİR GARANTİ İLE SAĞLANMAMAKTADIR. HERHANGİ BİR TALEP, ZARAR VEYA DİĞER SORUMLULUKTAN SORUMLU DEĞİLDİR VEYA İHLALDEN SORUMLU TUTULAMAZ.
+
+### Katkılar
+
+Katkılarınızı büyük bir memnuniyetle karşılıyoruz! Lütfen bu projeye katkıda bulunmaktan çekinmeyin. Katkılarınız için teşekkür ederiz.
+
+### İletişim
+
+Proje sahibi ile iletişim kurmak için lütfen [e-posta adresi](pashasectr@gmail.com)'ni kullanın.
