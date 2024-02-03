@@ -40,3 +40,9 @@ Betiği bir metin düzenleyici yardımıyla açın ve 75. Satıra ('Your_Phone' 
 		
 ## UYARI:
 Ancak, Telegram API'nin kullanım politikalarına ve ağır kullanım veya spam önlemlerine uygun hareket etmek önemlidir. Sürekli olarak çok fazla istek göndermek veya spam benzeri davranışlar sergilemek, Telegram hesabınızın askıya alınmasına veya API erişiminizin engellenmesine neden olabilir. Bu nedenle, programı aşırıya kaçmadan ve Telegram API'nin sınırlarını göz önünde bulundurarak kullanmak önemlidir.
+
+### Sorumluluk Reddi Beyanı
+Program eğitim amaçlıdır. Tüm sorumluluk yalnızca kullanıcıya aittir.
+
+### Bana Ulaşın:
+Programdaki hataları, tespit ettiğiniz bugları veya isteklerinizi bildirmek için bana ulaşın: pashasectr@gmail.com
