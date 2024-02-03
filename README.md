@@ -32,7 +32,7 @@ list_checker fonksiyonu ise, kullanıcının girdiği hedef kullanıcı adını 
 ## Programı Çalıştırın:
 Programı çalıştırmadan önce https://my.telegram.org/auth web sitesine gidin ve Telegram api kimliğinizi yaratın.
 
-Betiği bir metin düzenleyici yardımıyla açın ve 75. Satıra ('Your_Phone' bölümüne ve tırnak içinde) Telegram hesabınızın numaranızı girin. 76. Satıra da belirtilen yerleri API kimliğiniz (Your_Api_İD ve 'Your_Api_Hash' tırnak içinde olacak şekilde) ile doldurun. Böylece program çalışır duruma gelecektir.
+Betiği bir metin düzenleyici yardımıyla açın ve 75. Satıra ('Your_Phone' bölümüne ve tırnak içinde olacak şekilde) Telegram hesabınızın numarasını girin. 76. Satıra da belirtilen yerleri API kimliğiniz (Your_Api_İD ve 'Your_Api_Hash' tırnak içinde olacak şekilde) ile doldurun. Böylece program çalışır duruma gelecektir.
 
 ![ssmalu](https://github.com/Pasha-Sec/TeleBruter/assets/148802667/ca8d2e70-900b-4022-8ffc-c213b4c863a0)
 
