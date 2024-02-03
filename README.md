@@ -32,6 +32,7 @@ Diğer Telegram attack araçlarından farkı da budur. Herhangi bir listeye gere
 
 
 
+
 ### for Windows:
 
 * [Python 3 edin](https://www.python.org/)
