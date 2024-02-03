@@ -18,6 +18,8 @@ Diğer Telegram attack araçlarından farkı da budur. Herhangi bir listeye gere
 
 
 ## TeleBruter'i İndirin:
+### for Ubuntu & Debian:
+
 `sudo apt update`
 
 `sudo apt-get install python3-pip`
@@ -28,6 +30,26 @@ Diğer Telegram attack araçlarından farkı da budur. Herhangi bir listeye gere
 
 `pip install -r requirements.txt`
 
+
+
+### for Windows:
+
+* [Python 3 edin](https://www.python.org/)
+
+  Terminalden kontrol et: `python -version` veya `python3 --version`
+
+* Pip'i edin: Önce get-pip'i kur: `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py` ve Pip'i kur: `python get-pip.py` ayrıca kurulumu doğrulamayı unutma: `python` (veya `python3`) `-m pip help`
+
+
+* [Git'i indir](https://git-scm.com/download/win)
+
+  `git clone https://github.com/Pasha-Sec/TeleBruter.git`
+  
+  `cd TeleBruter`
+
+  `pip install -r requirements.txt` (bu komutu girerken "no on Path" hata mesajı alınırsa Pip'i Windows ortam değişkenlerine atayın.)
+
+  `python` (veya `python3`) `TeleBruter.py`
 
 
 ## Programı Çalıştırın:
