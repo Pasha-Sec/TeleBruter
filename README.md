@@ -1,4 +1,4 @@
-## TeleBruter
+# TeleBruter
 ## Created By PashaSec
 
 TeleBruter, verilen bir hedef kullanıcı adına sahip bir Telegram hesabının platforma kayıtlı telefon numarasını bulmak için kaba kuvvet yöntemiyle +90 formatında (Vodafone, Turkcell ve Turktelekom dahilinde) telefon numaraları oluşturan ve bu numaraları kontrol eden Python dili ile oluşturulmuş bir attack aracıdır. Kontrol işlemi, Python betiğinde "check" fonksiyonunda gerçekleşir.
