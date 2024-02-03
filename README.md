@@ -7,6 +7,8 @@ check fonksiyonu, format dahilinde oluşturulmuş telefon numarasını alır ve 
 
 list_checker fonksiyonu ise, kullanıcının girdiği hedef kullanıcı adını alır ve Turkcell, Vodafone ve TurkTelekom operatörlerine ait telefon numara formatları üretir. Her bir numarayı check fonksiyonuna gönderir ve eğer doğru kullanıcı adıyla eşleşen bir numara bulunursa işlemi sonlandırır ve sonucu veren bir mesaj döndürür. Böylece, doğru numara, belirtilen kullanıcı adıyla eşleşen bir Telegram hesabının bulunmasıyla bulunmuş olur.
 
+Diğer Telegram attack araçlarından farkı da budur. Herhangi bir listeye gerek duymadan anında yüzlerce numara oluşturuyor olması! Yakın bir zamanda yapılacak bir güncellemeyle diğer ülkelerin formatında da çalışabilir duruma gelecektir.
+
 ![SSlog](https://github.com/Pasha-Sec/TeleBruter/assets/148802667/fa3c728c-24f5-41c0-a397-b2439e008c5a)
 
 ![SSAttack](https://github.com/Pasha-Sec/TeleBruter/assets/148802667/5b8e82d0-930e-479e-82d6-27aac503e9cb)
@@ -46,3 +48,5 @@ Program eğitim amaçlıdır. Tüm sorumluluk yalnızca kullanıcıya aittir.
 
 ### Bana Ulaşın:
 Programdaki hataları, tespit ettiğiniz bugları veya isteklerinizi bildirmek için bana ulaşın: pashasectr@gmail.com
+
+### Copyright (c) 2024
