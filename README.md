@@ -60,6 +60,7 @@ Betiği bir metin düzenleyici yardımıyla açın ve 75. Satıra ('Your_Phone' 
 
 ![ssmalu](https://github.com/Pasha-Sec/TeleBruter/assets/148802667/ca8d2e70-900b-4022-8ffc-c213b4c863a0)
 
+Hedefi girmeden önce, yalnızca bir kereliğe mahsus sizden Telegram hesabınıza gönderilen kodu istyecektir. Girdiğinizde programın test yapabilmesi için sessions açılacaktır.
 
 		
 ## UYARI:
